@@ -1,0 +1,453 @@
+[
+  {
+    "category": "Design & frontend",
+    "name": "hallmark",
+    "repo": "Nutlope/hallmark",
+    "use": "Anti-AI-slop UI: build, audit, redesign or study pages"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "design-taste-frontend",
+    "repo": "Leonxlnx/taste-skill",
+    "use": "Art direction for web pages, with a screenshot look-and-fix loop"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "impeccable",
+    "repo": "pbakaus/impeccable",
+    "use": "Frontend design, critique, polish, accessibility, motion, copy, design systems"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "emil-design-eng",
+    "repo": "emilkowalski/skill",
+    "use": "UI polish, animation and small interaction details"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "ui-ux-pro-max",
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "use": "Lookup of styles, palettes, font pairings and stack guidance (repo link unverified)",
+    "note": "repo link unverified"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "floorplan",
+    "repo": "haydenschmitty/floorplan",
+    "use": "Interactive architecture map of a codebase"
+  },
+  {
+    "category": "Media & animation",
+    "name": "svg-animation",
+    "repo": "iart-ai/web-animation-skills",
+    "use": "Animated SVGs for the web"
+  },
+  {
+    "category": "Media & animation",
+    "name": "svg-character-animation",
+    "repo": "calesthio/openmontage",
+    "use": "Animated SVG characters"
+  },
+  {
+    "category": "Media & animation",
+    "name": "remotion-video-creation",
+    "repo": "affaan-m/ecc",
+    "use": "Programmatic video in Remotion"
+  },
+  {
+    "category": "Superpowers",
+    "name": "using-superpowers",
+    "repo": "obra/superpowers",
+    "use": "Sets how to find and use skills at the start of a session"
+  },
+  {
+    "category": "Superpowers",
+    "name": "brainstorming",
+    "repo": "obra/superpowers",
+    "use": "Explores intent and design before any creative work"
+  },
+  {
+    "category": "Superpowers",
+    "name": "writing-plans",
+    "repo": "obra/superpowers",
+    "use": "Turns a spec into a multi-step plan"
+  },
+  {
+    "category": "Superpowers",
+    "name": "executing-plans",
+    "repo": "obra/superpowers",
+    "use": "Runs a plan inline in the current session"
+  },
+  {
+    "category": "Superpowers",
+    "name": "subagent-driven-development",
+    "repo": "obra/superpowers",
+    "use": "Runs independent plan tasks through subagents"
+  },
+  {
+    "category": "Superpowers",
+    "name": "dispatching-parallel-agents",
+    "repo": "obra/superpowers",
+    "use": "Splits 2+ independent tasks across parallel agents"
+  },
+  {
+    "category": "Superpowers",
+    "name": "test-driven-development",
+    "repo": "obra/superpowers",
+    "use": "Writes tests before implementation"
+  },
+  {
+    "category": "Superpowers",
+    "name": "systematic-debugging",
+    "repo": "obra/superpowers",
+    "use": "Finds the root cause before proposing a fix"
+  },
+  {
+    "category": "Superpowers",
+    "name": "verification-before-completion",
+    "repo": "obra/superpowers",
+    "use": "Checks the work before calling it done"
+  },
+  {
+    "category": "Superpowers",
+    "name": "requesting-code-review",
+    "repo": "obra/superpowers",
+    "use": "Reviews work against requirements before merging"
+  },
+  {
+    "category": "Superpowers",
+    "name": "receiving-code-review",
+    "repo": "obra/superpowers",
+    "use": "Handles review feedback"
+  },
+  {
+    "category": "Superpowers",
+    "name": "finishing-a-development-branch",
+    "repo": "obra/superpowers",
+    "use": "Decides how to integrate finished work"
+  },
+  {
+    "category": "Superpowers",
+    "name": "using-git-worktrees",
+    "repo": "obra/superpowers",
+    "use": "Isolated git worktrees for parallel work"
+  },
+  {
+    "category": "Superpowers",
+    "name": "writing-skills",
+    "repo": "obra/superpowers",
+    "use": "Authors new skills"
+  },
+  {
+    "category": "Superpowers",
+    "name": "diagnosing-superpowers",
+    "repo": "obra/superpowers",
+    "use": "Explains why a superpowers session went wrong and builds bug reports"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-core",
+    "repo": "greensock/gsap-skills",
+    "use": "Core tweens and easing"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-timeline",
+    "repo": "greensock/gsap-skills",
+    "use": "Sequencing with timelines"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-scrolltrigger",
+    "repo": "greensock/gsap-skills",
+    "use": "Scroll-driven animation"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-react",
+    "repo": "greensock/gsap-skills",
+    "use": "GSAP in React"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-frameworks",
+    "repo": "greensock/gsap-skills",
+    "use": "GSAP in other frameworks (Vue, Svelte and similar)"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-plugins",
+    "repo": "greensock/gsap-skills",
+    "use": "GSAP plugins"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-performance",
+    "repo": "greensock/gsap-skills",
+    "use": "Keeping animations smooth"
+  },
+  {
+    "category": "GSAP",
+    "name": "gsap-utils",
+    "repo": "greensock/gsap-skills",
+    "use": "GSAP utility functions"
+  },
+  {
+    "category": "Pitch decks",
+    "name": "yc-pitch-deck",
+    "repo": "guia-matthieu/clawfu-skills",
+    "use": "Builds a YC-style pitch deck"
+  },
+  {
+    "category": "Pitch decks",
+    "name": "pitch-deck-reviewer",
+    "repo": "onewave-ai/claude-skills",
+    "use": "Reviews and critiques a pitch deck"
+  },
+  {
+    "category": "Marketing",
+    "name": "ab-test-setup",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Sets up A/B tests"
+  },
+  {
+    "category": "Marketing",
+    "name": "ad-creative",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Ad copy and creative"
+  },
+  {
+    "category": "Marketing",
+    "name": "ai-seo",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "SEO for AI search"
+  },
+  {
+    "category": "Marketing",
+    "name": "analytics-tracking",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Tracking and analytics setup"
+  },
+  {
+    "category": "Marketing",
+    "name": "aso-audit",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "App store optimization audit"
+  },
+  {
+    "category": "Marketing",
+    "name": "churn-prevention",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Reducing customer churn"
+  },
+  {
+    "category": "Marketing",
+    "name": "co-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Partner co-marketing"
+  },
+  {
+    "category": "Marketing",
+    "name": "cold-email",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Cold outreach emails"
+  },
+  {
+    "category": "Marketing",
+    "name": "community-marketing",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Community-led growth"
+  },
+  {
+    "category": "Marketing",
+    "name": "competitor-alternatives",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "\"Alternative to X\" pages"
+  },
+  {
+    "category": "Marketing",
+    "name": "competitor-profiling",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Competitor research"
+  },
+  {
+    "category": "Marketing",
+    "name": "content-strategy",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Content planning"
+  },
+  {
+    "category": "Marketing",
+    "name": "copy-editing",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Editing existing copy"
+  },
+  {
+    "category": "Marketing",
+    "name": "copywriting",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Writing marketing copy"
+  },
+  {
+    "category": "Marketing",
+    "name": "customer-research",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Customer and audience research"
+  },
+  {
+    "category": "Marketing",
+    "name": "directory-submissions",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Submitting to directories"
+  },
+  {
+    "category": "Marketing",
+    "name": "email-sequence",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Email drip and lifecycle sequences"
+  },
+  {
+    "category": "Marketing",
+    "name": "form-cro",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Form conversion optimization"
+  },
+  {
+    "category": "Marketing",
+    "name": "free-tool-strategy",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Free tools as a growth channel"
+  },
+  {
+    "category": "Marketing",
+    "name": "image",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Marketing image generation"
+  },
+  {
+    "category": "Marketing",
+    "name": "launch-strategy",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Product launch planning"
+  },
+  {
+    "category": "Marketing",
+    "name": "lead-magnets",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Lead magnet ideas and creation"
+  },
+  {
+    "category": "Marketing",
+    "name": "marketing-ideas",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Marketing idea generation"
+  },
+  {
+    "category": "Marketing",
+    "name": "marketing-psychology",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Psychology-driven persuasion"
+  },
+  {
+    "category": "Marketing",
+    "name": "onboarding-cro",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Onboarding conversion"
+  },
+  {
+    "category": "Marketing",
+    "name": "page-cro",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Landing page conversion"
+  },
+  {
+    "category": "Marketing",
+    "name": "paid-ads",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Paid ad campaigns"
+  },
+  {
+    "category": "Marketing",
+    "name": "paywall-upgrade-cro",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Paywall and upgrade conversion"
+  },
+  {
+    "category": "Marketing",
+    "name": "popup-cro",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Popup conversion"
+  },
+  {
+    "category": "Marketing",
+    "name": "pricing-strategy",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Pricing decisions"
+  },
+  {
+    "category": "Marketing",
+    "name": "product-marketing-context",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Product positioning context for the other skills"
+  },
+  {
+    "category": "Marketing",
+    "name": "programmatic-seo",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "SEO pages at scale"
+  },
+  {
+    "category": "Marketing",
+    "name": "referral-program",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Referral program design"
+  },
+  {
+    "category": "Marketing",
+    "name": "revops",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Revenue operations"
+  },
+  {
+    "category": "Marketing",
+    "name": "sales-enablement",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Sales collateral and enablement"
+  },
+  {
+    "category": "Marketing",
+    "name": "schema-markup",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Structured data markup"
+  },
+  {
+    "category": "Marketing",
+    "name": "seo-audit",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "SEO audit"
+  },
+  {
+    "category": "Marketing",
+    "name": "signup-flow-cro",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Signup flow conversion"
+  },
+  {
+    "category": "Marketing",
+    "name": "site-architecture",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Site structure and navigation"
+  },
+  {
+    "category": "Marketing",
+    "name": "social-content",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Social media content"
+  },
+  {
+    "category": "Marketing",
+    "name": "video",
+    "repo": "coreyhaines31/marketingskills",
+    "use": "Marketing video"
+  }
+]
