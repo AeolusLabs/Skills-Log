@@ -537,78 +537,67 @@
   {
     "category": "Startup fundraising",
     "name": "seed-scout",
-    "repo": "",
-    "use": "Reads rivals' App Store reviews to find competitor weak points",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Reads rivals' App Store reviews to find competitor weak points"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-market",
-    "repo": "",
-    "use": "Sizes TAM / SAM / SOM with a source on every input",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Sizes TAM / SAM / SOM with a source on every input"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-model",
-    "repo": "",
-    "use": "36-month financial model: runway, breakeven, unit economics",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "36-month financial model: runway, breakeven, unit economics"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-plan",
-    "repo": "",
-    "use": "Turns the idea into a nine-section business plan",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Turns the idea into a nine-section business plan"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-deck",
-    "repo": "",
-    "use": "Builds a 10-slide pitch deck as one HTML file",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Builds a 10-slide pitch deck as one HTML file"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-investors",
-    "repo": "",
-    "use": "Finds and ranks investors from public sources",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Finds and ranks investors from public sources"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-closer",
-    "repo": "",
-    "use": "Drafts investor outreach and follow-ups; sends only with your yes",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Drafts investor outreach and follow-ups; sends only with your yes"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-coach",
-    "repo": "",
-    "use": "Drills investor questions and grades your answers",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Drills investor questions and grades your answers"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-dataroom",
-    "repo": "",
-    "use": "Builds the data room index and lists what is missing",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Builds the data room index and lists what is missing"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-terms",
-    "repo": "",
-    "use": "Reads a SAFE or term sheet, does dilution math, flags clauses",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Reads a SAFE or term sheet, does dilution math, flags clauses"
   },
   {
     "category": "Startup fundraising",
     "name": "seed-updates",
-    "repo": "",
-    "use": "Writes the monthly investor update",
-    "note": "source repo not found"
+    "repo": "jakeschincariol/seed-skill",
+    "use": "Writes the monthly investor update"
   }
 ]

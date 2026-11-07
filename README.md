@@ -155,17 +155,17 @@ A browsable list of AI agent skills: what each one does and where to get it.
 
 | Skill | Use | Repo |
 |---|---|---|
-| `seed-scout` | Reads rivals' App Store reviews to find competitor weak points | - _(source repo not found)_ |
-| `seed-market` | Sizes TAM / SAM / SOM with a source on every input | - _(source repo not found)_ |
-| `seed-model` | 36-month financial model: runway, breakeven, unit economics | - _(source repo not found)_ |
-| `seed-plan` | Turns the idea into a nine-section business plan | - _(source repo not found)_ |
-| `seed-deck` | Builds a 10-slide pitch deck as one HTML file | - _(source repo not found)_ |
-| `seed-investors` | Finds and ranks investors from public sources | - _(source repo not found)_ |
-| `seed-closer` | Drafts investor outreach and follow-ups; sends only with your yes | - _(source repo not found)_ |
-| `seed-coach` | Drills investor questions and grades your answers | - _(source repo not found)_ |
-| `seed-dataroom` | Builds the data room index and lists what is missing | - _(source repo not found)_ |
-| `seed-terms` | Reads a SAFE or term sheet, does dilution math, flags clauses | - _(source repo not found)_ |
-| `seed-updates` | Writes the monthly investor update | - _(source repo not found)_ |
+| `seed-scout` | Reads rivals' App Store reviews to find competitor weak points | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-market` | Sizes TAM / SAM / SOM with a source on every input | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-model` | 36-month financial model: runway, breakeven, unit economics | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-plan` | Turns the idea into a nine-section business plan | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-deck` | Builds a 10-slide pitch deck as one HTML file | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-investors` | Finds and ranks investors from public sources | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-closer` | Drafts investor outreach and follow-ups; sends only with your yes | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-coach` | Drills investor questions and grades your answers | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-dataroom` | Builds the data room index and lists what is missing | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-terms` | Reads a SAFE or term sheet, does dilution math, flags clauses | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+| `seed-updates` | Writes the monthly investor update | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
 
 ## Adding a skill
 
