@@ -449,5 +449,166 @@
     "name": "video",
     "repo": "coreyhaines31/marketingskills",
     "use": "Marketing video"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "hairline-create",
+    "repo": "lucasmarkes/hairline",
+    "use": "Draws an isometric line figure that answers the pointer, as one HTML file"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "hairline-adopt",
+    "repo": "lucasmarkes/hairline",
+    "use": "Rebuilds an existing SVG as a Hairline figure"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "stack-diagram",
+    "repo": "caru-ini/stack-diagram",
+    "use": "Cloud-style architecture and tech-stack diagrams with brand logos (HTML, PNG, TSX)"
+  },
+  {
+    "category": "UX & product research",
+    "name": "information-architecture",
+    "repo": "julianoczkowski/designer-skills",
+    "use": "Plans navigation, content hierarchy, page structure and user flows"
+  },
+  {
+    "category": "UX & product research",
+    "name": "ux-heuristics",
+    "repo": "wondelai/skills",
+    "use": "Usability audits with Nielsen heuristics and severity ratings"
+  },
+  {
+    "category": "UX & product research",
+    "name": "mom-test",
+    "repo": "wondelai/skills",
+    "use": "Customer interview questions that avoid leading and false positives"
+  },
+  {
+    "category": "UX & product research",
+    "name": "user-onboarding-activation",
+    "repo": "refoundai/lenny-skills",
+    "use": "Gets users to first value: first-run experience and friction removal"
+  },
+  {
+    "category": "Coding workflow",
+    "name": "ponytail",
+    "repo": "DietrichGebert/ponytail",
+    "use": "Lazy-senior-dev mode: smallest change that solves the task",
+    "note": "canonical repo not confirmed"
+  },
+  {
+    "category": "Coding workflow",
+    "name": "ponytail-audit",
+    "repo": "DietrichGebert/ponytail",
+    "use": "Whole-repo audit: bugs, security, load, bloat; changes nothing",
+    "note": "canonical repo not confirmed"
+  },
+  {
+    "category": "Coding workflow",
+    "name": "ponytail-review",
+    "repo": "DietrichGebert/ponytail",
+    "use": "Reviews a change for logic, safety, tests, speed and need",
+    "note": "canonical repo not confirmed"
+  },
+  {
+    "category": "Coding workflow",
+    "name": "ponytail-debt",
+    "repo": "DietrichGebert/ponytail",
+    "use": "Lists every deferred `shortcut:` comment as a debt ledger",
+    "note": "canonical repo not confirmed"
+  },
+  {
+    "category": "Coding workflow",
+    "name": "ponytail-gain",
+    "repo": "DietrichGebert/ponytail",
+    "use": "Shows ponytail's measured savings from the benchmark",
+    "note": "canonical repo not confirmed"
+  },
+  {
+    "category": "Coding workflow",
+    "name": "ponytail-help",
+    "repo": "DietrichGebert/ponytail",
+    "use": "Quick reference for ponytail levels and commands",
+    "note": "canonical repo not confirmed"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-scout",
+    "repo": "",
+    "use": "Reads rivals' App Store reviews to find competitor weak points",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-market",
+    "repo": "",
+    "use": "Sizes TAM / SAM / SOM with a source on every input",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-model",
+    "repo": "",
+    "use": "36-month financial model: runway, breakeven, unit economics",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-plan",
+    "repo": "",
+    "use": "Turns the idea into a nine-section business plan",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-deck",
+    "repo": "",
+    "use": "Builds a 10-slide pitch deck as one HTML file",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-investors",
+    "repo": "",
+    "use": "Finds and ranks investors from public sources",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-closer",
+    "repo": "",
+    "use": "Drafts investor outreach and follow-ups; sends only with your yes",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-coach",
+    "repo": "",
+    "use": "Drills investor questions and grades your answers",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-dataroom",
+    "repo": "",
+    "use": "Builds the data room index and lists what is missing",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-terms",
+    "repo": "",
+    "use": "Reads a SAFE or term sheet, does dilution math, flags clauses",
+    "note": "source repo not found"
+  },
+  {
+    "category": "Startup fundraising",
+    "name": "seed-updates",
+    "repo": "",
+    "use": "Writes the monthly investor update",
+    "note": "source repo not found"
   }
 ]

@@ -1,16 +1,19 @@
 # Skills Index
 
 A browsable list of AI agent skills: what each one does and where to get it.
-**75 skills** across **6 categories**.
+**99 skills** across **9 categories**.
 
 ## Jump to
 
-- [Design & frontend](#design--frontend) (6)
+- [Design & frontend](#design--frontend) (9)
 - [Media & animation](#media--animation) (3)
 - [Superpowers](#superpowers) (15)
 - [GSAP](#gsap) (8)
 - [Pitch decks](#pitch-decks) (2)
 - [Marketing](#marketing) (41)
+- [UX & product research](#ux--product-research) (4)
+- [Coding workflow](#coding-workflow) (6)
+- [Startup fundraising](#startup-fundraising) (11)
 
 ## How to use a skill from this list
 
@@ -30,6 +33,9 @@ A browsable list of AI agent skills: what each one does and where to get it.
 | `emil-design-eng` | UI polish, animation and small interaction details | [emilkowalski/skill](https://github.com/emilkowalski/skill) |
 | `ui-ux-pro-max` | Lookup of styles, palettes, font pairings and stack guidance (repo link unverified) | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) _(repo link unverified)_ |
 | `floorplan` | Interactive architecture map of a codebase | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) |
+| `hairline-create` | Draws an isometric line figure that answers the pointer, as one HTML file | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) |
+| `hairline-adopt` | Rebuilds an existing SVG as a Hairline figure | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) |
+| `stack-diagram` | Cloud-style architecture and tech-stack diagrams with brand logos (HTML, PNG, TSX) | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) |
 
 ## Media & animation
 
@@ -124,6 +130,42 @@ A browsable list of AI agent skills: what each one does and where to get it.
 | `site-architecture` | Site structure and navigation | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) |
 | `social-content` | Social media content | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) |
 | `video` | Marketing video | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) |
+
+## UX & product research
+
+| Skill | Use | Repo |
+|---|---|---|
+| `information-architecture` | Plans navigation, content hierarchy, page structure and user flows | [julianoczkowski/designer-skills](https://github.com/julianoczkowski/designer-skills) |
+| `ux-heuristics` | Usability audits with Nielsen heuristics and severity ratings | [wondelai/skills](https://github.com/wondelai/skills) |
+| `mom-test` | Customer interview questions that avoid leading and false positives | [wondelai/skills](https://github.com/wondelai/skills) |
+| `user-onboarding-activation` | Gets users to first value: first-run experience and friction removal | [refoundai/lenny-skills](https://github.com/refoundai/lenny-skills) |
+
+## Coding workflow
+
+| Skill | Use | Repo |
+|---|---|---|
+| `ponytail` | Lazy-senior-dev mode: smallest change that solves the task | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) _(canonical repo not confirmed)_ |
+| `ponytail-audit` | Whole-repo audit: bugs, security, load, bloat; changes nothing | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) _(canonical repo not confirmed)_ |
+| `ponytail-review` | Reviews a change for logic, safety, tests, speed and need | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) _(canonical repo not confirmed)_ |
+| `ponytail-debt` | Lists every deferred `shortcut:` comment as a debt ledger | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) _(canonical repo not confirmed)_ |
+| `ponytail-gain` | Shows ponytail's measured savings from the benchmark | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) _(canonical repo not confirmed)_ |
+| `ponytail-help` | Quick reference for ponytail levels and commands | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) _(canonical repo not confirmed)_ |
+
+## Startup fundraising
+
+| Skill | Use | Repo |
+|---|---|---|
+| `seed-scout` | Reads rivals' App Store reviews to find competitor weak points | - _(source repo not found)_ |
+| `seed-market` | Sizes TAM / SAM / SOM with a source on every input | - _(source repo not found)_ |
+| `seed-model` | 36-month financial model: runway, breakeven, unit economics | - _(source repo not found)_ |
+| `seed-plan` | Turns the idea into a nine-section business plan | - _(source repo not found)_ |
+| `seed-deck` | Builds a 10-slide pitch deck as one HTML file | - _(source repo not found)_ |
+| `seed-investors` | Finds and ranks investors from public sources | - _(source repo not found)_ |
+| `seed-closer` | Drafts investor outreach and follow-ups; sends only with your yes | - _(source repo not found)_ |
+| `seed-coach` | Drills investor questions and grades your answers | - _(source repo not found)_ |
+| `seed-dataroom` | Builds the data room index and lists what is missing | - _(source repo not found)_ |
+| `seed-terms` | Reads a SAFE or term sheet, does dilution math, flags clauses | - _(source repo not found)_ |
+| `seed-updates` | Writes the monthly investor update | - _(source repo not found)_ |
 
 ## Adding a skill
 

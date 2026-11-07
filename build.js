@@ -48,7 +48,7 @@ for (const c of cats) {
   md += `## ${c}\n\n| Skill | Use | Repo |\n|---|---|---|\n`;
   for (const s of skills.filter((x) => x.category === c)) {
     const note = s.note ? ` _(${s.note})_` : '';
-    md += `| \`${s.name}\` | ${esc(s.use)} | [${s.repo}](https://github.com/${s.repo})${note} |\n`;
+    md += `| \`${s.name}\` | ${esc(s.use)} | ${s.repo ? `[${s.repo}](https://github.com/${s.repo})` : '-'}${note} |\n`;
   }
   md += '\n';
 }
