@@ -1,11 +1,11 @@
 # Skills Index
 
 A browsable list of AI agent skills: what each one does and where to get it.
-**109 skills** across **12 categories**.
+**110 skills** across **12 categories**.
 
 ## Jump to
 
-- [Design & frontend](#design--frontend) (10)
+- [Design & frontend](#design--frontend) (11)
 - [Media & animation](#media--animation) (9)
 - [Superpowers](#superpowers) (15)
 - [GSAP](#gsap) (8)
@@ -40,6 +40,7 @@ A browsable list of AI agent skills: what each one does and where to get it.
 | `hairline-adopt` | Rebuilds an existing SVG as a Hairline figure | [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) |
 | `stack-diagram` | Cloud-style architecture and tech-stack diagrams with brand logos (HTML, PNG, TSX) | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) |
 | `monocharts` | React component source (Amicro): micro-interactions, loaders, cards and transitions via CLI / shadcn registry | [Subhan-code/Monocharts](https://github.com/Subhan-code/Monocharts) |
+| `bklit-ui` | shadcn/ui-based charts and data-visualization components ([bklit.com](https://bklit.com)) | [bklit/bklit-ui](https://github.com/bklit/bklit-ui) |
 
 ## Media & animation
 

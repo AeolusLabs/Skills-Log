@@ -659,5 +659,11 @@
     "name": "agency-agents",
     "repo": "msitarzewski/agency-agents",
     "use": "Large roster of specialist agent personas (engineering, design, marketing, sales, security and more) with installers for Claude Code, Cursor, Codex and others"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "bklit-ui",
+    "repo": "bklit/bklit-ui",
+    "use": "shadcn/ui-based charts and data-visualization components ([bklit.com](https://bklit.com))"
   }
 ]
