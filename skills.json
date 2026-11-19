@@ -647,5 +647,11 @@
     "name": "find-skills",
     "repo": "vercel-labs/skills",
     "use": "Finds and installs agent skills for a task (skills CLI)"
+  },
+  {
+    "category": "Design & frontend",
+    "name": "monocharts",
+    "repo": "Subhan-code/Monocharts",
+    "use": "React component source (Amicro): micro-interactions, loaders, cards and transitions via CLI / shadcn registry"
   }
 ]
