@@ -1,7 +1,7 @@
 # Skills Index
 
 A browsable list of AI agent skills: what each one does and where to get it.
-**108 skills** across **11 categories**.
+**109 skills** across **12 categories**.
 
 ## Jump to
 
@@ -16,6 +16,7 @@ A browsable list of AI agent skills: what each one does and where to get it.
 - [Startup fundraising](#startup-fundraising) (11)
 - [Writing](#writing) (1)
 - [Skill discovery](#skill-discovery) (1)
+- [Agents](#agents) (1)
 
 ## How to use a skill from this list
 
@@ -187,6 +188,12 @@ A browsable list of AI agent skills: what each one does and where to get it.
 | Skill | Use | Repo |
 |---|---|---|
 | `find-skills` | Finds and installs agent skills for a task (skills CLI) | [vercel-labs/skills](https://github.com/vercel-labs/skills) |
+
+## Agents
+
+| Skill | Use | Repo |
+|---|---|---|
+| `agency-agents` | Large roster of specialist agent personas (engineering, design, marketing, sales, security and more) with installers for Claude Code, Cursor, Codex and others | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) |
 
 ## Adding a skill
 

@@ -653,5 +653,11 @@
     "name": "monocharts",
     "repo": "Subhan-code/Monocharts",
     "use": "React component source (Amicro): micro-interactions, loaders, cards and transitions via CLI / shadcn registry"
+  },
+  {
+    "category": "Agents",
+    "name": "agency-agents",
+    "repo": "msitarzewski/agency-agents",
+    "use": "Large roster of specialist agent personas (engineering, design, marketing, sales, security and more) with installers for Claude Code, Cursor, Codex and others"
   }
 ]
