@@ -1,12 +1,12 @@
 # Skills Index
 
 A browsable list of AI agent skills: what each one does and where to get it.
-**99 skills** across **9 categories**.
+**107 skills** across **11 categories**.
 
 ## Jump to
 
 - [Design & frontend](#design--frontend) (9)
-- [Media & animation](#media--animation) (3)
+- [Media & animation](#media--animation) (9)
 - [Superpowers](#superpowers) (15)
 - [GSAP](#gsap) (8)
 - [Pitch decks](#pitch-decks) (2)
@@ -14,6 +14,8 @@ A browsable list of AI agent skills: what each one does and where to get it.
 - [UX & product research](#ux--product-research) (4)
 - [Coding workflow](#coding-workflow) (6)
 - [Startup fundraising](#startup-fundraising) (11)
+- [Writing](#writing) (1)
+- [Skill discovery](#skill-discovery) (1)
 
 ## How to use a skill from this list
 
@@ -44,6 +46,12 @@ A browsable list of AI agent skills: what each one does and where to get it.
 | `svg-animation` | Animated SVGs for the web | [iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills) |
 | `svg-character-animation` | Animated SVG characters | [calesthio/openmontage](https://github.com/calesthio/openmontage) |
 | `remotion-video-creation` | Programmatic video in Remotion | [affaan-m/ecc](https://github.com/affaan-m/ecc) |
+| `hyperframes` | Make, edit and render video from HTML with HyperFrames | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+| `hyperframes-cli` | HyperFrames CLI: scaffold, preview, render, publish | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+| `hyperframes-registry` | ~450 ready-made HyperFrames blocks: transitions, titles, captions, charts | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+| `media-use` | Gets or makes music, SFX, images, voiceover and more for HyperFrames videos | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+| `reverse-any-video` | Rebuilds an existing video as an editable HyperFrames project | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+| `style-sampling` | Makes a new episode in a proven video style (explainer, true crime, etc.) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
 
 ## Superpowers
 
@@ -166,6 +174,18 @@ A browsable list of AI agent skills: what each one does and where to get it.
 | `seed-dataroom` | Builds the data room index and lists what is missing | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
 | `seed-terms` | Reads a SAFE or term sheet, does dilution math, flags clauses | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
 | `seed-updates` | Writes the monthly investor update | [jakeschincariol/seed-skill](https://github.com/jakeschincariol/seed-skill) |
+
+## Writing
+
+| Skill | Use | Repo |
+|---|---|---|
+| `humanizer` | Rewrites AI-sounding text so it reads human | [blader/humanizer](https://github.com/blader/humanizer) |
+
+## Skill discovery
+
+| Skill | Use | Repo |
+|---|---|---|
+| `find-skills` | Finds and installs agent skills for a task (skills CLI) | [vercel-labs/skills](https://github.com/vercel-labs/skills) |
 
 ## Adding a skill
 

@@ -599,5 +599,53 @@
     "name": "seed-updates",
     "repo": "jakeschincariol/seed-skill",
     "use": "Writes the monthly investor update"
+  },
+  {
+    "category": "Media & animation",
+    "name": "hyperframes",
+    "repo": "heygen-com/hyperframes",
+    "use": "Make, edit and render video from HTML with HyperFrames"
+  },
+  {
+    "category": "Media & animation",
+    "name": "hyperframes-cli",
+    "repo": "heygen-com/hyperframes",
+    "use": "HyperFrames CLI: scaffold, preview, render, publish"
+  },
+  {
+    "category": "Media & animation",
+    "name": "hyperframes-registry",
+    "repo": "heygen-com/hyperframes",
+    "use": "~450 ready-made HyperFrames blocks: transitions, titles, captions, charts"
+  },
+  {
+    "category": "Media & animation",
+    "name": "media-use",
+    "repo": "heygen-com/hyperframes",
+    "use": "Gets or makes music, SFX, images, voiceover and more for HyperFrames videos"
+  },
+  {
+    "category": "Media & animation",
+    "name": "reverse-any-video",
+    "repo": "heygen-com/hyperframes",
+    "use": "Rebuilds an existing video as an editable HyperFrames project"
+  },
+  {
+    "category": "Media & animation",
+    "name": "style-sampling",
+    "repo": "heygen-com/hyperframes",
+    "use": "Makes a new episode in a proven video style (explainer, true crime, etc.)"
+  },
+  {
+    "category": "Writing",
+    "name": "humanizer",
+    "repo": "blader/humanizer",
+    "use": "Rewrites AI-sounding text so it reads human"
+  },
+  {
+    "category": "Skill discovery",
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "use": "Finds and installs agent skills for a task (skills CLI)"
   }
 ]
